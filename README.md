@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there,
 
-<!--
-**Alvoh213/Alvoh213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI engineering student engaged in exploring more about AI and become AI detail oriented expert.
 
-Here are some ideas to get you started:
+I am currently working on machine learning (ML) focusing heavily on statistical algorithms to make predictions or find patterns in structured data such as spreadsheets and database. Further more I'm also working on deep learning (DL) Focusing much on Natural Language Processing (NLP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In future, I look forward to collaborate with open-source data cleaning pipelines, whereby I'd work with a team to write python scripts for instance in real-world data (handling missing values. fixing date formats or filtering out noise) before feeding it to a model.
+
+Whenever I get stuck i might inquire for help in code and workflow optimization.
+
+Ask me about AI training and i might be pleased to engage it with anyone
+
+You can reach me through my email address alvinwanjala@gmail.com
+fun fact: I started learning AI to explore more about AI models
